@@ -1,5 +1,6 @@
 # Maackia
 Fork of Paper and added tickrate command
+***
 本服务端预计于2024年秋开源，敬请期待
 
 Maackia已在SenCraft森世界服务器上使用，ip:mc.sencraft.top
